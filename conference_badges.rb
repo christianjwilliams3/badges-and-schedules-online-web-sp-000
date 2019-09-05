@@ -8,7 +8,8 @@ def batch_badge_creator(attendees)
 end 
 end
 
-def assign_room(room)
-  room [1..7]
+def assign_room(attendees)
+  room = 0 
+  
   
 end  
