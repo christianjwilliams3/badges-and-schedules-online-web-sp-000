@@ -9,5 +9,6 @@ end
 end
 
 def assign_room(room)
+  room [1..7]
   
 end  
