@@ -9,7 +9,8 @@ end
 end
 
 def assign_room(attendees)
-  room = 0 
+  room=0 
+  attendees.collect do |name|
   
   
 end  
